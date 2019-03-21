@@ -1,4 +1,4 @@
-// Configuration for TMDB
+
 
 const API_URL = 'https://api.themoviedb.org/3/';
 const API_KEY = 'ad38d616cc440d51800e8d98fbda845c';
